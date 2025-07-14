@@ -11,7 +11,7 @@
  
 - 💬 Database Administration Expertise :point_right: MySQL, MariaDB, MongoDB, PostgreSQL, RDS, MySql Aroura, Amazon DynamoDB
 
-- 📫 How to reach me :point_right: Email - mejerrytech@gmail.com
+- 📫 How to reach me :point_right: Email - puneetyuvitech@gmail.com
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=nodejs,py,nestjs,nextjs,react,vue,js,threejs,webflow,jquery,html,tailwind,css,django,flask,alpinejs,angular,flutter,mongodb,mysql,dynamodb,graphql,sqlite,github,git,gitlab,grafana,prometheus,elasticsearch,figma,ai,aws,gcp,azure,ansible,jenkins,terraform,docker,kubernetes&theme=light)](https://skillicons.dev)
